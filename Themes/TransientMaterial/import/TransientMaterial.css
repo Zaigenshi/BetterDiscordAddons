@@ -215,8 +215,8 @@ html, span:not(.spinner-item) {
 .comment {
 	background: rgba(0,0,0, var(--tm-messages-opacity)) !important;
 	padding: 0px 7px 10px 10px;
-	padding-top: calc(var(--tm-solo) * 10px);
-	border-radius: 3px; 
+	padding-top: calc(var(--tm-solo) * 20px);
+	border-radius: 4px; 
 }
 
 .comment::before {
