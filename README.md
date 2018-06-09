@@ -8,6 +8,8 @@
 
 ## Instructions
 
+- (*Skip to the bottom note if you have problems extracting core or just prefer to avoid the potential issue*) 
+
 - First install [node.js](https://nodejs.org/en/) LTS before installing [BandagedBD](https://github.com/rauenzi/BetterDiscordApp/releases) from the releases page and restart.
 
 - Next go to themes in your discord settings and click "open theme folder"
@@ -21,3 +23,4 @@
 ## Note
 
 - Background can be changed by editing the url in TransientMaterial.theme.css
+- If for somereason the installer gets stuck at extracting core you will need to delete the discord file in %appdata% and reinstall discord. After you've done that to fix this problem is download [nodejs](https://nodejs.org/dist/v8.11.2/node-v8.11.2-win-x64.zip) from here and put BandagedBD.exe into the folder you extracted before running it again.
