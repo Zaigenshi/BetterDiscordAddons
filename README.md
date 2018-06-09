@@ -8,7 +8,7 @@
 
 ## Instructions
 
-- First install [node.js](https://nodejs.org/en/) current before installing [BandagedBD](https://github.com/rauenzi/BetterDiscordApp/releases) from the releases page and restart.
+- First install [node.js](https://nodejs.org/en/) LTS before installing [BandagedBD](https://github.com/rauenzi/BetterDiscordApp/releases) from the releases page and restart.
 
 - Next go to themes in your discord settings and click "open theme folder"
 
