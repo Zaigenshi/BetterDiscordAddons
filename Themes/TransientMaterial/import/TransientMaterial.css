@@ -220,7 +220,7 @@ html, span:not(.spinner-item) {
 }
 
 .comment::before {
-
+    border-color: transparent rgba(0, 0, 0, var(--tm-messages-opacity)) transparent transparent;
 }
 
 .messages-wrapper .messages .divider span {
@@ -260,9 +260,7 @@ html, span:not(.spinner-item) {
 }
 
 .theme-dark .message-group .comment .markup pre {
-	background: rgba(33,33,33, 0.85) !important;
-	border-color: rgba(20,20,20, 0.7) !important;
-	border-radius:  0;
+
 }
 
 .messages-wrapper .messages .message-group .comment .markup pre code {
