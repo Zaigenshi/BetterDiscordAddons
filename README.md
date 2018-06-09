@@ -8,7 +8,7 @@
 
 ## Instructions
 
-- First install [BandagedBD](https://github.com/rauenzi/BetterDiscordApp/releases) from the releases page.
+- First install [BandagedBD](https://github.com/rauenzi/BetterDiscordApp/releases) from the releases page and restart.
 
 - Next go to themes in your discord settings and click "open theme folder"
 
