@@ -4,4 +4,4 @@
 
 ## Pictures
 
-![](visualizer.gif)
+![](pic.png)
