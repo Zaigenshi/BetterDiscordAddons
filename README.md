@@ -5,3 +5,15 @@
 ## Pictures
 
 ![](pic.png)
+
+## Instructions
+
+- First install [BandagedBD](https://github.com/rauenzi/BetterDiscordApp/releases) from the releases page.
+
+- Next go to themes in your discord settings and click "open theme folder"
+
+- Drag TransientMaterial.theme.css from the TransientMaterial folder to your themes folder.
+
+- Press Ctrl+R in discord to restart and go back to user settings to toggle the theme.
+
+- Profit??
