@@ -17,3 +17,7 @@
 - Press Ctrl+R in discord to restart and go back to user settings to toggle the theme.
 
 - Profit??
+
+## Note
+
+- Background can be changed by editing the url in TransientMaterial.theme.css
