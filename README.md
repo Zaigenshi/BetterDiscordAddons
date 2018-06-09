@@ -23,4 +23,4 @@
 ## Note
 
 - Background can be changed by editing the url in TransientMaterial.theme.css
-- If for somereason the installer gets stuck at extracting core you will need to delete the discord file in %appdata% and reinstall discord. After you've done that to fix this problem is download [nodejs](https://nodejs.org/dist/v8.11.2/node-v8.11.2-win-x64.zip) from here and put BandagedBD.exe into the folder you extracted before running it again.
+- If for some reason the installer gets stuck at extracting core you will need to delete the discord file in %appdata% and reinstall discord. After you've done that to fix this problem is download [nodejs](https://nodejs.org/dist/v8.11.2/node-v8.11.2-win-x64.zip) from here and put BandagedBD.exe into the folder you extracted before running it again.
