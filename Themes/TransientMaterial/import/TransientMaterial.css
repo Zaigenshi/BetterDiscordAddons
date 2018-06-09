@@ -212,7 +212,20 @@ html, span:not(.spinner-item) {
     margin-bottom: 30px!important;
 }
 
+.comment {
+	background: rgba(0,0,0, var(--tm-messages-opacity)) !important;
+	padding: 0px 7px 10px 10px;
+	padding-top: calc(var(--tm-solo) * 10px);
+	border-radius: 70px; 
+}
 
+.comment::before {
+    border-color: transparent rgba(0, 0, 0, var(--tm-messages-opacity)) transparent transparent;
+}
+
+.messages-wrapper .messages .divider span {
+    background: rgba(0,0,0, var(--tm-messages-opacity)) !important;
+}
 
 .messages.scroller, .content > .theme-dark {
     background: rgba(48,48,48, var(--tm-chat-opacity)) !important;
