@@ -220,11 +220,11 @@ html, span:not(.spinner-item) {
 }
 
 .comment::before {
-    border-color: transparent rgba(255, 255, 255, var(--tm-messages-opacity)) transparent transparent;
+    border-color: transparent rgba(0, 0, 0, var(--tm-messages-opacity)) transparent transparent;
 }
 
 .messages-wrapper .messages .divider span {
-    background: rgba(0,0,0, var(--tm-messages-opacity)) !important;
+    background: rgba(255,255,255, var(--tm-messages-opacity)) !important;
 }
 
 .messages.scroller, .content > .theme-dark {
