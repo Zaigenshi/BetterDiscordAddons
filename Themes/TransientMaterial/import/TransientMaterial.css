@@ -213,7 +213,7 @@ html, span:not(.spinner-item) {
 }
 
 .comment {
-	background: rgba(0,0,0, var(--tm-messages-opacity)) !important;
+	background: rgba(255,255,255, var(--tm-messages-opacity)) !important;
 	padding: 0px 7px 10px 10px;
 	padding-top: calc(var(--tm-solo) * 10px);
 	border-radius: 3px; 
